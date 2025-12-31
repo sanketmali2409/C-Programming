@@ -4,14 +4,19 @@ int main()
 {
 
 
-for (int i=0; i<26; i++)
+for (int i=0; i<10; i++)
 {
-char x = 'A';
+
  for(int j=0; j<=i; j++)
  {
+ if(j%2==0){
+ printf("?");
+ }
 
- printf(" %c ",x);
- x++;
+ if(j%2!=0)
+ {
+    printf("!");
+ }
    
  }
  
