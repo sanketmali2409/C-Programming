@@ -23,7 +23,7 @@ fact=1;
 printf("\n%d",sum);
 
 if (sum==main_result)
-printf("\nThe number is rmstrong");
+printf("\nThe number is armstrong");
 else
 printf("\nThe number is not Armstrong");
 
