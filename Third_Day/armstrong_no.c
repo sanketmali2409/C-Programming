@@ -25,7 +25,7 @@ printf("\n%d",sum);
 if (sum==main_result)
 printf("\nThe number is Armstrong");
 else
-printf("\nThe number is not Armstrong");
+printf("\nThe umber is not Armstrong");
 
 
 
