@@ -5,7 +5,7 @@ int main()
 int n,m,fact=1;
 int main_result;
 int sum=0;
-printf("Enter a positive number :");
+printf("nter a positive number :");
 scanf("%d",&n);
 main_result=n;
 
